@@ -328,16 +328,28 @@
       ""
     ],
     [
-      "4b0bf287-ff22-46d2-9a21-8f5bc40c75ad",
-      "Button matrix"
-    ],
-    [
-      "98588952-669a-4c5f-948d-9729b3b04ace",
-      "Button led strip"
-    ],
-    [
       "8c59234c-4b92-497c-9a92-28fee1185425",
       "USB-C interface"
+    ],
+    [
+      "77e80e03-91ee-4ab0-9128-b36d88ea7b10",
+      "Micro SD connector"
+    ],
+    [
+      "3e174945-0f14-4777-84ae-d28e4ef4eec5",
+      "Power source"
+    ],
+    [
+      "3159a0fd-9cfb-4836-b001-4197fb47d6b2",
+      "IO"
+    ],
+    [
+      "a6be9bb2-6f93-49a5-a958-4460bdcafc61",
+      "Button matrix1"
+    ],
+    [
+      "18d73d02-d240-4308-a5a7-c3da203c7f9c",
+      "Button led strip1"
     ]
   ],
   "text_variables": {}
