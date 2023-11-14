@@ -330,6 +330,14 @@
     [
       "4b0bf287-ff22-46d2-9a21-8f5bc40c75ad",
       "Button matrix"
+    ],
+    [
+      "98588952-669a-4c5f-948d-9729b3b04ace",
+      "Button led strip"
+    ],
+    [
+      "8c59234c-4b92-497c-9a92-28fee1185425",
+      "USB-C interface"
     ]
   ],
   "text_variables": {}
