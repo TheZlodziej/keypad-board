@@ -1,4 +1,4 @@
-22468746912281600
+22594854261397653
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -66058,6 +66058,503 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PUT_RocketLab_IC
+2-2J1A, US6
+2-2J1A_1
+Transistor BJT PNP
+0
+6
+6
+PUT_RocketLab_IC
+ABM7
+ABM7
+Crystal or Oscillator
+0
+2
+2
+PUT_RocketLab_IC
+BD00FC0WFPE2
+BD00FC0WFP-E2-1
+Integrated Circuit
+0
+5
+5
+PUT_RocketLab_IC
+BD50FD0WHFP-TR
+
+
+0
+6
+6
+PUT_RocketLab_IC
+BMP581
+BMP581-7
+Undefined or Miscellaneous
+0
+10
+10
+PUT_RocketLab_IC
+Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering
+LGA-8
+lga land grid array
+0
+8
+8
+PUT_RocketLab_IC
+CYBLE22201401
+CYBLE-222014-01-2
+Integrated Circuit
+0
+22
+22
+PUT_RocketLab_IC
+DFN-6_DCB_LIT
+
+LT6000IDCB-TRMPBF 
+0
+7
+7
+PUT_RocketLab_IC
+DFN-6_DCB_LIT-L
+
+LT6000IDCB-TRMPBF 
+0
+7
+7
+PUT_RocketLab_IC
+DFN-6_DCB_LIT-M
+
+LT6000IDCB-TRMPBF 
+0
+7
+7
+PUT_RocketLab_IC
+DRV0006A
+
+TPS7A3501DRVT 
+0
+9
+8
+PUT_RocketLab_IC
+ESP32-S3-WROOM-1
+
+ESP32, WROOM
+0
+49
+41
+PUT_RocketLab_IC
+HSCMRRD100PDSA3
+HSCMRRD100PDSA3-1
+Integrated Circuit
+0
+8
+8
+PUT_RocketLab_IC
+ICM-30670
+
+
+0
+32
+32
+PUT_RocketLab_IC
+IC_MM3220AA2NRH
+
+
+0
+6
+6
+PUT_RocketLab_IC
+JST_SM04B-GHS-TB(LF)(SN)-
+
+
+0
+6
+6
+PUT_RocketLab_IC
+L96-M33
+
+
+0
+31
+31
+PUT_RocketLab_IC
+LGA-8_8x6mm
+
+
+0
+8
+8
+PUT_RocketLab_IC
+LGA-16_4.5x3mm
+
+
+0
+16
+16
+PUT_RocketLab_IC
+MAXM10S00B
+MAX-M10S-00B-2
+Integrated Circuit
+0
+18
+18
+PUT_RocketLab_IC
+MODULE_NRF52840-DONGLE
+
+
+0
+22
+22
+PUT_RocketLab_IC
+NX2012SA32768KSTDMUB1
+NX2012SA-32.768K-STD-MUB-1-3
+Crystal or Oscillator
+0
+2
+2
+PUT_RocketLab_IC
+QFN-6_1x1mm
+Small QFN (6-pin, 1 x 1 mm) package for SKY RF Switch
+QFN, RF, Switch, 6-pin, SKY
+0
+6
+6
+PUT_RocketLab_IC
+QFN50P400X400X100-25N
+
+
+0
+25
+25
+PUT_RocketLab_IC
+RYT0009A-MFG
+
+TPS62993QRYTRQ1 
+0
+9
+9
+PUT_RocketLab_IC
+SIMCON_SIM7000E
+
+
+0
+68
+68
+PUT_RocketLab_IC
+SKY65366-21 28 pins MCM
+SKY65313-21-5
+Integrated Circuit
+0
+44
+44
+PUT_RocketLab_IC
+SOD2613X114N
+SOD323-1
+TVS Diode (Uni-directional)
+0
+2
+2
+PUT_RocketLab_IC
+SOIC-8 IRF9393TRPBF
+
+
+0
+8
+8
+PUT_RocketLab_IC
+SOIC127P599X175-8N
+
+
+0
+8
+8
+PUT_RocketLab_IC
+SOIC127P600X175-8N
+
+
+0
+8
+8
+PUT_RocketLab_IC
+SON35P100X100X40-6N
+DSF (S-PX2SON-N6)
+Integrated Circuit
+0
+6
+6
+PUT_RocketLab_IC
+SON65P200X200X80-7N
+
+
+0
+7
+7
+PUT_RocketLab_IC
+SON65P300X300X80-9N-D
+DSD0008B
+Integrated Circuit
+0
+9
+9
+PUT_RocketLab_IC
+SON65P300X300X100-9N-D
+DRB 8
+Integrated Circuit
+0
+9
+9
+PUT_RocketLab_IC
+SON127P600X500X80-9N-D
+WSON-8 6x5-mm_2022
+Integrated Circuit
+0
+9
+9
+PUT_RocketLab_IC
+SOP65P490X110-8N
+DGK
+Integrated Circuit
+0
+8
+8
+PUT_RocketLab_IC
+SOP127P600X180-16N
+
+
+0
+16
+16
+PUT_RocketLab_IC
+SOT65P210X110-5N
+LD59015C25R
+Integrated Circuit
+0
+5
+5
+PUT_RocketLab_IC
+SOT95P260X110-3N
+BSS308PE H6327
+MOSFET (P-Channel)
+0
+3
+3
+PUT_RocketLab_IC
+SOT95P270X145-5N
+5-Pin SOT-23*
+Integrated Circuit
+0
+5
+5
+PUT_RocketLab_IC
+SOT95P285X140-6N
+SOT26*-*-
+MOSFET (N-Channel)
+0
+6
+6
+PUT_RocketLab_IC
+SOTFL50P160X85-3N
+EMT3F_2
+Transistor BJT NPN
+0
+3
+3
+PUT_RocketLab_IC
+STM32F407VET6
+
+
+0
+100
+100
+PUT_RocketLab_IC
+STM32H7B0RBT6
+
+
+0
+64
+64
+PUT_RocketLab_IC
+STM32WL55CCU6
+
+
+0
+49
+49
+PUT_RocketLab_IC
+TBA 1-xxxx
+
+
+0
+4
+4
+PUT_RocketLab_IC
+TDFN-14-1EP_3x3.5mm_P0.5mm_EP1.6x2.9mm
+
+
+0
+15
+15
+PUT_RocketLab_IC
+TLV75901PDRVT
+
+
+0
+7
+7
+PUT_RocketLab_IC
+VXO780121000
+VXO78012-1000
+Power Supply
+0
+3
+3
+PUT_RocketLab_IC
+X2SON-4
+
+
+0
+5
+5
+PUT_RocketLab_IC
+XCVR_ESP32-S3-DEVKITC-1-N8R2
+
+
+0
+44
+44
+PUT_RocketLab_RF
+E22-400M30S
+
+
+0
+22
+22
+PUT_RocketLab_RF
+E32-400M30S
+
+
+0
+28
+28
+PUT_RocketLab_RF
+MS382-10F
+
+
+0
+28
+1
+PUT_RocketLab_RF
+MS520-10F
+
+
+0
+35
+1
+PUT_RocketLab_RF
+RFSOLUTIONS_CON-SMA-EDGE-S
+
+
+0
+5
+5
+PUT_RocketLab_RF
+SMA EDGE BACK
+
+
+0
+4
+4
+PUT_RocketLab_RF
+mcmx
+919-383J-51A-2
+Connector
+0
+5
+5
+PUT_RocketLab_graphics
+18650 battery shield 2S
+
+
+0
+0
+0
+PUT_RocketLab_graphics
+BME680
+
+
+0
+8
+6
+PUT_RocketLab_graphics
+Hexa_logo
+
+
+0
+0
+0
+PUT_RocketLab_graphics
+PutRocketlab_jumper_2_h5mm
+JP2
+
+0
+0
+0
+PUT_RocketLab_graphics
+PutRocketlab_logo_1_5x5mm
+
+
+0
+0
+0
+PUT_RocketLab_graphics
+PutRocketlab_logo_1_8x8mm
+
+
+0
+0
+0
+PUT_RocketLab_graphics
+PutRocketlab_logo_2_h4mm
+
+
+0
+0
+0
+PUT_RocketLab_graphics
+PutRocketlab_logo_2_h6mm
+
+
+0
+0
+0
+PUT_RocketLab_graphics
+QR_code_never_gonna_give_you_up
+Never gonna give you up
+
+0
+0
+0
+PUT_RocketLab_graphics
+SEN0290 kit
+
+
+0
+2
+0
+PUT_RocketLab_graphics
+altimeter_logo
+
+
+0
+0
+0
+PUT_RocketLab_graphics
+fairy_icon_16x22mm
+Fairy icon for cosmic fairy board
+icon, graphic, fairy
+0
+0
+0
 PUT_RocketLab_other
 128x64OLED
 
@@ -66131,6 +66628,13 @@ Connector
 PUT_RocketLab_other
 CMI9605IC0580T
 CMI-9605IC-0580T-2
+Loudspeaker or Buzzer
+0
+2
+2
+PUT_RocketLab_other
+CMI12951285T_buzzer
+CMI-1295-1285T-2
 Loudspeaker or Buzzer
 0
 2
@@ -66444,13 +66948,6 @@ SOD80C
 2
 2
 PUT_RocketLab_other
-SOIC127P600X175-8N
-8 Lead SOIC-ren1
-MOSFET (P-Channel)
-0
-8
-8
-PUT_RocketLab_other
 SOP65P640X120-8N
 
 
@@ -66555,6 +67052,27 @@ Switch
 0
 5
 5
+PUT_RocketLab_semiconductors
+DMN62D0LFD-13
+DMP21D6UFD-7-3
+MOSFET (P-Channel)
+0
+4
+3
+PUT_RocketLab_semiconductors
+DMP21D6UFD7
+DMP21D6UFD-7-3
+MOSFET (P-Channel)
+0
+3
+3
+PUT_RocketLab_semiconductors
+PMDXB950UPELZ
+SOT1216[H=0.4mm]
+MOSFET (P-Channel)
+0
+6
+6
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
