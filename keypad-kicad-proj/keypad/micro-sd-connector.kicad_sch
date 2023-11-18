@@ -699,7 +699,7 @@
     (property "Value" "Micro_SD_Card_Det_Hirose_DM3AT" (at 167.005 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 218.44 67.31 0)
+    (property "Footprint" "Connector_Card:microSD_HC_Hirose_DM3D-SF" (at 218.44 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1" (at 166.37 82.55 0)

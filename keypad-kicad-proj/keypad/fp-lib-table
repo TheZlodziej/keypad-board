@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PUT_RocketLab_graphics")(type "KiCad")(uri "/Users/minekuba/Desktop/keypad/keypad-kicad-proj/ed_kicad_libraries/PUT_RocketLab_graphics.pretty")(options "")(descr ""))
+  (lib (name "PUT_RocketLab_IC")(type "KiCad")(uri "/Users/minekuba/Desktop/keypad/keypad-kicad-proj/ed_kicad_libraries/PUT_RocketLab_IC.pretty")(options "")(descr ""))
+  (lib (name "PUT_RocketLab_other")(type "KiCad")(uri "/Users/minekuba/Desktop/keypad/keypad-kicad-proj/ed_kicad_libraries/PUT_RocketLab_other.pretty")(options "")(descr ""))
+  (lib (name "PUT_RocketLab_RF")(type "KiCad")(uri "/Users/minekuba/Desktop/keypad/keypad-kicad-proj/ed_kicad_libraries/PUT_RocketLab_RF.pretty")(options "")(descr ""))
+  (lib (name "PUT_RocketLab_semiconductors")(type "KiCad")(uri "/Users/minekuba/Desktop/keypad/keypad-kicad-proj/ed_kicad_libraries/PUT_RocketLab_semiconductors.pretty")(options "")(descr ""))
+)
