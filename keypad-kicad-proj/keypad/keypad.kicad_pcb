@@ -190,7 +190,7 @@
 
   (footprint "PUT_RocketLab_other:MX1A-E1NW cherry mx blue rgb" (layer "F.Cu")
     (tstamp 0a6a9b62-81d2-4b37-b097-c7cd6d1a7748)
-    (at 112.4618 117.0018)
+    (at 108.4998 121.7734)
     (property "Sheetfile" "button-matrix.kicad_sch")
     (property "Sheetname" "Button matrix1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/a6be9bb2-6f93-49a5-a958-4460bdcafc61/bd334c4e-b88e-4247-a4a2-7f0f6a355b9c")
@@ -244,7 +244,7 @@
 
   (footprint "PUT_RocketLab_other:MX1A-E1NW cherry mx blue rgb" (layer "F.Cu")
     (tstamp 0db5a2d9-cd38-4935-8f72-090fda422303)
-    (at 78.153 134.1562)
+    (at 66.4998 142.7734)
     (property "Sheetfile" "button-matrix.kicad_sch")
     (property "Sheetname" "Button matrix1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/a6be9bb2-6f93-49a5-a958-4460bdcafc61/1832986e-3d30-445c-8bdb-27bc98936644")
@@ -298,7 +298,7 @@
 
   (footprint "PUT_RocketLab_other:MX1A-E1NW cherry mx blue rgb" (layer "F.Cu")
     (tstamp 0e3abc37-cdf1-45ec-a346-8da4e1b190c0)
-    (at 129.6162 134.1562)
+    (at 129.4998 142.7734)
     (property "Sheetfile" "button-matrix.kicad_sch")
     (property "Sheetname" "Button matrix1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/a6be9bb2-6f93-49a5-a958-4460bdcafc61/373f65c3-0063-4d20-ace1-09e1452663ce")
@@ -424,7 +424,7 @@
 
   (footprint "PUT_RocketLab_other:EG1206A" (layer "F.Cu")
     (tstamp 1034ab82-2ecf-4bf0-8e02-9727a6f16b58)
-    (at 191.4144 83.4926 90)
+    (at 197.8138 84.6864 90)
     (descr "EG1206A-2")
     (tags "Switch")
     (property "Sheetfile" "power-source.kicad_sch")
@@ -633,7 +633,7 @@
 
   (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp 1f0e900c-8f37-4ad5-b93b-2dcf6836073d)
-    (at 186.633 60.2234)
+    (at 188.4364 56.7436)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "io.kicad_sch")
@@ -763,7 +763,7 @@
 
   (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp 2941f6e2-575d-4e24-9d55-f46cde0a0a53)
-    (at 186.6076 65.4558)
+    (at 188.411 61.976)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "io.kicad_sch")
@@ -821,7 +821,7 @@
 
   (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm" (layer "F.Cu")
     (tstamp 2c4a1945-436e-436f-8d2e-ac1a2551babc)
-    (at 158.1258 128.6146 -90)
+    (at 162.6832 133.709 -90)
     (descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF")
     (tags "rotary encoder")
     (property "Sheetfile" "io.kicad_sch")
@@ -915,7 +915,7 @@
 
   (footprint "PUT_RocketLab_other:MX1A-E1NW cherry mx blue rgb" (layer "F.Cu")
     (tstamp 2f489b2b-4a4d-4d02-a2c0-45c70522f9e7)
-    (at 78.153 99.8474)
+    (at 66.4998 100.7734)
     (property "Sheetfile" "button-matrix.kicad_sch")
     (property "Sheetname" "Button matrix1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/a6be9bb2-6f93-49a5-a958-4460bdcafc61/b8e9dbb8-2301-4742-aff2-f63637750e4c")
@@ -950,7 +950,7 @@
       (stroke (width 0.1524) (type solid)) (layer "F.Fab") (tstamp 03ffc1ec-bb21-4b4f-a316-00ad163b3387))
     (fp_circle (center 0 -1.905) (end 0.381 -1.905)
       (stroke (width 0.1524) (type solid)) (fill none) (layer "F.Fab") (tstamp 3e9c3cbb-0ae2-4593-8af4-ae3965024525))
-    (pad "" np_thru_hole circle (at 3.81 2.54) (size 4.0894 4.0894) (drill 4.0894) (layers "F&B.Cu" "*.Mask") (tstamp 5cb44340-d71c-41ca-988b-1d197ed69b4e))
+    (pad "" np_thru_hole circle locked (at 3.81 2.54) (size 4.0894 4.0894) (drill 4.0894) (layers "F&B.Cu" "*.Mask") (tstamp 5cb44340-d71c-41ca-988b-1d197ed69b4e))
     (pad "1" thru_hole circle (at 0 0) (size 2.0574 2.0574) (drill 1.5494) (layers "*.Cu" "*.Mask")
       (net 74 "row_0") (pintype "unspecified") (tstamp 0b72ebce-57ed-4f7f-99fb-26d604ae2677))
     (pad "2" thru_hole circle (at 6.35 -2.54) (size 2.0574 2.0574) (drill 1.5494) (layers "*.Cu" "*.Mask")
@@ -969,7 +969,7 @@
 
   (footprint "PUT_RocketLab_other:MX1A-E1NW cherry mx blue rgb" (layer "F.Cu")
     (tstamp 4792b17f-79b0-43af-94c4-53a72835944c)
-    (at 95.3074 99.8474)
+    (at 87.4998 100.7734)
     (property "Sheetfile" "button-matrix.kicad_sch")
     (property "Sheetname" "Button matrix1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/a6be9bb2-6f93-49a5-a958-4460bdcafc61/aedbc39b-2206-4939-8dc5-0d26e9c1916e")
@@ -1114,7 +1114,7 @@
 
   (footprint "PUT_RocketLab_other:MX1A-E1NW cherry mx blue rgb" (layer "F.Cu")
     (tstamp 69689bd9-3b0f-4a9f-b4c1-7d4de6aa512a)
-    (at 112.4618 99.8474)
+    (at 108.4998 100.7734)
     (property "Sheetfile" "button-matrix.kicad_sch")
     (property "Sheetname" "Button matrix1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/a6be9bb2-6f93-49a5-a958-4460bdcafc61/261858ca-0c1f-47a8-b08e-673733d0a38f")
@@ -1240,7 +1240,7 @@
 
   (footprint "Button_Switch_THT:SW_PUSH_6mm" (layer "F.Cu")
     (tstamp 80af6a6f-267d-4ecc-8a1c-c1afd3dba748)
-    (at 68.163 95.937 -90)
+    (at 61.52 46.2132)
     (descr "https://www.omron.com/ecb/products/pdf/en-b3f.pdf")
     (tags "tact sw push 6mm")
     (property "Sheetfile" "io.kicad_sch")
@@ -1249,15 +1249,15 @@
     (property "ki_keywords" "switch lever")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/71448762-4092-43b3-a1d0-900383d214c5")
     (attr through_hole)
-    (fp_text reference "SW25" (at 3.25 -2 90) (layer "F.SilkS")
+    (fp_text reference "SW25" (at 3.25 -2) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8eb2a0e3-59c9-4ed5-83a5-866887f2df68)
     )
-    (fp_text value "SW_RST" (at 3.75 6.7 90) (layer "F.Fab") hide
+    (fp_text value "SW_RST" (at 3.75 6.7) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b91da146-9510-4a88-a719-1afb3ea3e303)
     )
-    (fp_text user "${REFERENCE}" (at 6.25 5.25 90) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 6.25 5.25) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c85ff93b-e56f-495a-b3c2-e66a9f566c3a)
     )
@@ -1305,13 +1305,13 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 156f984c-2b3a-4850-805e-248bb7f0d64e))
     (fp_circle (center 3.25 2.25) (end 1.25 2.5)
       (stroke (width 0.1) (type solid)) (fill none) (layer "F.Fab") (tstamp 05d5df17-7920-4241-81ef-203ab6c9d906))
-    (pad "1" thru_hole circle (at 0 0) (size 2 2) (drill 1.1) (layers "*.Cu" "*.Mask")
+    (pad "1" thru_hole circle (at 0 0 90) (size 2 2) (drill 1.1) (layers "*.Cu" "*.Mask")
       (net 3 "GND") (pinfunction "A") (pintype "passive") (tstamp 47470726-72e5-4e82-a95d-3583403dcce0))
-    (pad "1" thru_hole circle (at 6.5 0) (size 2 2) (drill 1.1) (layers "*.Cu" "*.Mask")
+    (pad "1" thru_hole circle (at 6.5 0 90) (size 2 2) (drill 1.1) (layers "*.Cu" "*.Mask")
       (net 3 "GND") (pinfunction "A") (pintype "passive") (tstamp fb2539db-e186-40fa-9a3a-18ea3d899bde))
-    (pad "2" thru_hole circle (at 0 4.5) (size 2 2) (drill 1.1) (layers "*.Cu" "*.Mask")
+    (pad "2" thru_hole circle (at 0 4.5 90) (size 2 2) (drill 1.1) (layers "*.Cu" "*.Mask")
       (net 10 "RTS") (pinfunction "B") (pintype "passive") (tstamp ae09f6e4-d72c-4298-8902-2e4e02cb0352))
-    (pad "2" thru_hole circle (at 6.5 4.5) (size 2 2) (drill 1.1) (layers "*.Cu" "*.Mask")
+    (pad "2" thru_hole circle (at 6.5 4.5 90) (size 2 2) (drill 1.1) (layers "*.Cu" "*.Mask")
       (net 10 "RTS") (pinfunction "B") (pintype "passive") (tstamp 2833067b-2967-48cb-b72b-23824c0c0e39))
     (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm.wrl"
       (offset (xyz 0 0 0))
@@ -1322,7 +1322,7 @@
 
   (footprint "PUT_RocketLab_other:CMI9605IC0580T" (layer "F.Cu")
     (tstamp 863d0498-b515-43fb-bd66-61d281479b0c)
-    (at 150.8798 66.296)
+    (at 157.3314 72.9742)
     (descr "CMI-9605IC-0580T-2")
     (tags "Loudspeaker or Buzzer")
     (property "Datasheet_1" "2761125Hb")
@@ -1604,7 +1604,7 @@
 
   (footprint "PUT_RocketLab_other:MX1A-E1NW cherry mx blue rgb" (layer "F.Cu")
     (tstamp 96bb576e-a188-42cf-bc8c-23c38d0bfdda)
-    (at 95.3074 134.1562)
+    (at 87.4998 142.7734)
     (property "Sheetfile" "button-matrix.kicad_sch")
     (property "Sheetname" "Button matrix1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/a6be9bb2-6f93-49a5-a958-4460bdcafc61/8cda05aa-b3b8-4a08-ab06-caef30c54760")
@@ -1730,7 +1730,7 @@
 
   (footprint "PUT_RocketLab_other:MX1A-E1NW cherry mx blue rgb" (layer "F.Cu")
     (tstamp 9d243519-2837-4ad5-880e-cad649cd1015)
-    (at 112.4618 134.1562)
+    (at 108.4998 142.7734)
     (property "Sheetfile" "button-matrix.kicad_sch")
     (property "Sheetname" "Button matrix1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/a6be9bb2-6f93-49a5-a958-4460bdcafc61/9de44104-3cba-4ad1-b0b5-9d32bfe14b73")
@@ -1784,7 +1784,7 @@
 
   (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm" (layer "F.Cu")
     (tstamp 9f20231d-4368-48c7-ba1b-dbd91d1b9a34)
-    (at 158.1404 94.3356 -90)
+    (at 162.6832 99.43 -90)
     (descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF")
     (tags "rotary encoder")
     (property "Sheetfile" "io.kicad_sch")
@@ -1878,7 +1878,7 @@
 
   (footprint "PUT_RocketLab_other:GCT_USB4105-GF-A" (layer "F.Cu")
     (tstamp a1261e06-053b-455a-8e37-186a445a44c1)
-    (at 63.881 85.1622 -90)
+    (at 54.5846 80.7118 -90)
     (property "MANUFACTURER" "GCT")
     (property "MAXIMUM_PACKAGE_HEIGHT" "3.31 mm")
     (property "PARTREV" "A3")
@@ -2037,7 +2037,7 @@
 
   (footprint "PUT_RocketLab_other:MX1A-E1NW cherry mx blue rgb" (layer "F.Cu")
     (tstamp adec5589-bb97-485c-9b75-73855a9023bb)
-    (at 129.6162 117.0018)
+    (at 129.4998 121.7734)
     (property "Sheetfile" "button-matrix.kicad_sch")
     (property "Sheetname" "Button matrix1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/a6be9bb2-6f93-49a5-a958-4460bdcafc61/0dd132ef-06e5-4a8f-97ab-173f455eef8b")
@@ -2091,7 +2091,7 @@
 
   (footprint "PUT_RocketLab_other:MX1A-E1NW cherry mx blue rgb" (layer "F.Cu")
     (tstamp bbab9bd7-be37-4c36-a644-405ceb396cce)
-    (at 129.6162 99.8474)
+    (at 129.4998 100.7734)
     (property "Sheetfile" "button-matrix.kicad_sch")
     (property "Sheetname" "Button matrix1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/a6be9bb2-6f93-49a5-a958-4460bdcafc61/8b756897-1458-4a9e-8a35-7612d7c36e91")
@@ -2145,7 +2145,7 @@
 
   (footprint "PUT_RocketLab_other:MX1A-E1NW cherry mx blue rgb" (layer "F.Cu")
     (tstamp c8079d0a-1e83-4fe3-935b-5b124ad0bb80)
-    (at 95.3074 117.0018)
+    (at 87.4998 121.7734)
     (property "Sheetfile" "button-matrix.kicad_sch")
     (property "Sheetname" "Button matrix1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/a6be9bb2-6f93-49a5-a958-4460bdcafc61/56123a86-0143-4d18-8a99-6014344341cf")
@@ -2286,7 +2286,7 @@
 
   (footprint "PUT_RocketLab_other:MX1A-E1NW cherry mx blue rgb" (layer "F.Cu")
     (tstamp d8b8e58d-d1b8-41cc-8f22-c1a36dc33dad)
-    (at 78.153 117.0018)
+    (at 66.4998 121.7734)
     (property "Sheetfile" "button-matrix.kicad_sch")
     (property "Sheetname" "Button matrix1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/a6be9bb2-6f93-49a5-a958-4460bdcafc61/07eaa748-8914-4968-9911-2afc9f541748")
@@ -2484,7 +2484,7 @@
 
   (footprint "PUT_RocketLab_other:PTA30432010CIB102" (layer "F.Cu")
     (tstamp efd581ee-e176-4153-b1dc-8bd53773ece2)
-    (at 173.2306 140.6474 90)
+    (at 181.638 144.9654 90)
     (descr "PTA3043-2010CIB102-1")
     (tags "Variable Resistor")
     (property "Sheetfile" "io.kicad_sch")
@@ -2568,7 +2568,7 @@
 
   (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp f47d9c67-ccd6-4901-94c3-be5c947d87fb)
-    (at 186.633 55.118)
+    (at 188.4364 51.6382)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "io.kicad_sch")
@@ -2626,7 +2626,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "B.Cu")
     (tstamp 01069c79-dbf4-4047-9e53-a0f57d755f3c)
-    (at 83.3842 89.6092)
+    (at 74.0878 85.1588)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -2680,7 +2680,7 @@
 
   (footprint "PUT_RocketLab_other:SK6812MINI-E" (layer "B.Cu")
     (tstamp 02cc2d0c-0cb4-43c9-a73c-769014b6613c)
-    (at 116.34655 107.4928 180)
+    (at 112.47305 108.3134 180)
     (property "Sheetfile" "button-led-strip.kicad_sch")
     (property "Sheetname" "Button led strip1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/18d73d02-d240-4308-a5a7-c3da203c7f9c/3f0ab251-6674-4360-9d00-5f7270d62b00")
@@ -2785,7 +2785,7 @@
 
   (footprint "PUT_RocketLab_other:SK6812MINI-E" (layer "B.Cu")
     (tstamp 0499a010-5017-47d1-b21e-d51bde55b40f)
-    (at 99.2886 107.7214 180)
+    (at 91.47305 108.3134 180)
     (property "Sheetfile" "button-led-strip.kicad_sch")
     (property "Sheetname" "Button led strip1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/18d73d02-d240-4308-a5a7-c3da203c7f9c/1483c98a-ff1f-4003-8e4d-fd8488973619")
@@ -2890,7 +2890,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tstamp 05931437-65cf-426f-803a-1cb74cdcdaf8)
-    (at 80.262 89.8886)
+    (at 70.9656 85.4382)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -2944,7 +2944,7 @@
 
   (footprint "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm" (layer "B.Cu")
     (tstamp 1018e3e6-6a02-4e2d-9b45-c4b606951dad)
-    (at 76.705 80.0512 180)
+    (at 67.4086 75.6008 180)
     (descr "QFN, 24 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=278), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "QFN NoLead")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -3060,7 +3060,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
     (tstamp 12533b94-038f-43fa-8f25-aa09598b4f5f)
-    (at 181.1274 76.9986 90)
+    (at 187.5268 78.1924 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -3114,7 +3114,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "B.Cu")
     (tstamp 1f309554-60b9-463c-8ae5-dcbd69026f08)
-    (at 167.4114 76.1765 90)
+    (at 173.8108 77.3703 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "power-source.kicad_sch")
@@ -3168,7 +3168,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "B.Cu")
     (tstamp 21f3036f-03d6-49a0-98cd-6f5a69bffff8)
-    (at 72.5648 81.1556 -90)
+    (at 63.2684 76.7052 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -3330,7 +3330,7 @@
 
   (footprint "PUT_RocketLab_other:SOIC127P600X175-8N" (layer "B.Cu")
     (tstamp 29977ef1-65d3-4681-9281-d5bcf9c67910)
-    (at 172.7962 75.1332)
+    (at 179.1956 76.327)
     (descr "8 Lead SOIC-ren1")
     (tags "MOSFET (P-Channel)")
     (property "Height" "1.75")
@@ -3408,7 +3408,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-23" (layer "B.Cu")
     (tstamp 29aa3af1-f088-4f49-ac84-f955c6a98088)
-    (at 98.93 88.6595 90)
+    (at 89.6336 84.2091 90)
     (descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOT TO_SOT_SMD")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -3470,7 +3470,7 @@
 
   (footprint "Diode_SMD:D_SOD-323" (layer "B.Cu")
     (tstamp 2c49fb2a-a7e7-4cb0-aa79-9d6874ec073a)
-    (at 130.0988 52.3048 -90)
+    (at 130.0988 51.6382 -90)
     (descr "SOD-323")
     (tags "SOD-323")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -3592,7 +3592,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "B.Cu")
     (tstamp 312fbb55-5fd8-43b1-8e0d-47283f41601d)
-    (at 83.4309 83.6286)
+    (at 74.1345 79.1782)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -3646,7 +3646,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "B.Cu")
     (tstamp 3ab18079-8de6-4bdc-8ca5-248e9d484803)
-    (at 94.9778 88.9013 90)
+    (at 85.6814 84.4509 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -3700,7 +3700,7 @@
 
   (footprint "PUT_RocketLab_other:SK6812MINI-E" (layer "B.Cu")
     (tstamp 3b33bf1b-9664-4d95-bf55-d395fbb1c241)
-    (at 98.6418 124.6498 180)
+    (at 91.47305 129.3134 180)
     (property "Sheetfile" "button-led-strip.kicad_sch")
     (property "Sheetname" "Button led strip1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/18d73d02-d240-4308-a5a7-c3da203c7f9c/991e36cc-15cb-412a-8ea5-673b3537983b")
@@ -3805,7 +3805,7 @@
 
   (footprint "PUT_RocketLab_other:SK6812MINI-E" (layer "B.Cu")
     (tstamp 3b96f922-451b-40bd-87a4-b14dc61e24ec)
-    (at 82.18355 142.0114 180)
+    (at 70.47305 150.3134 180)
     (property "Sheetfile" "button-led-strip.kicad_sch")
     (property "Sheetname" "Button led strip1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/18d73d02-d240-4308-a5a7-c3da203c7f9c/86630b0c-2945-41db-917a-d7926d193ab5")
@@ -3910,7 +3910,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
     (tstamp 3cf7d4a6-eab3-454a-a089-9217c222e77f)
-    (at 83.9974 85.4106 180)
+    (at 74.701 80.9602 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -3964,7 +3964,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 41a42ede-cab7-4bd5-a814-b72ac44522c1)
-    (at 104.1146 101.9292 90)
+    (at 96.1272 103.4278 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "button-matrix.kicad_sch")
@@ -3979,7 +3979,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp be991eac-8c90-40bf-9e12-b13cb29e707f)
     )
-    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab")
+    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp df9d4e71-a9d7-407d-a8ec-de674c7656a8)
     )
@@ -4036,7 +4036,7 @@
 
   (footprint "PUT_RocketLab_other:SK6812MINI-E" (layer "B.Cu")
     (tstamp 41aa4359-53ed-460d-b64b-84de15780263)
-    (at 132.62795 141.9352 180)
+    (at 133.47305 150.3134 180)
     (property "Sheetfile" "button-led-strip.kicad_sch")
     (property "Sheetname" "Button led strip1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/18d73d02-d240-4308-a5a7-c3da203c7f9c/6bf1afb4-f032-4d89-8a26-c620a0713420")
@@ -4141,7 +4141,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
     (tstamp 47a62598-8a32-4741-838c-20e9f783bc55)
-    (at 110.0074 48.1046 -90)
+    (at 110.0074 48.1046 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "keypad.kicad_sch")
@@ -4150,7 +4150,7 @@
     (property "ki_keywords" "capacitor cap")
     (path "/45e2ff88-a62d-45ca-bcb9-318531982965")
     (attr smd)
-    (fp_text reference "C7" (at 2.1844 -0.0254 90) (layer "B.SilkS")
+    (fp_text reference "C7" (at -2.0858 -0.0508 90) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c03fe4ad-9f5f-4823-91c0-98509db82f1b)
     )
@@ -4182,9 +4182,9 @@
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 5ae39afb-5c14-484e-b420-338c59d35e8f))
     (fp_line (start 0.5 0.25) (end 0.5 -0.25)
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 025e905e-1ce0-45d7-b92f-1bac86c54890))
-    (pad "1" smd roundrect (at -0.48 0 270) (size 0.56 0.62) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
+    (pad "1" smd roundrect (at -0.48 0 90) (size 0.56 0.62) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 4 "+3V3") (pintype "passive") (tstamp 79ccc609-be49-4b2e-a6b5-946f5258aeb2))
-    (pad "2" smd roundrect (at 0.48 0 270) (size 0.56 0.62) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
+    (pad "2" smd roundrect (at 0.48 0 90) (size 0.56 0.62) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 3 "GND") (pintype "passive") (tstamp 50a06584-ed96-4de1-a4d3-ed5d32b936e3))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
       (offset (xyz 0 0 0))
@@ -4279,7 +4279,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 4882c902-e66a-4ae2-9c1c-75f6f3e29898)
-    (at 86.7918 101.9546 90)
+    (at 74.8098 103.4278 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "button-matrix.kicad_sch")
@@ -4294,7 +4294,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 35ea4191-1605-4bfb-a863-7ed703f38f14)
     )
-    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab")
+    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3122c5a9-b37e-4bbc-9c26-58c33d6def33)
     )
@@ -4489,7 +4489,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 51d2e139-0ebe-4687-9018-af37ebc73ac2)
-    (at 86.8426 119.2012 90)
+    (at 74.8098 124.2909 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "button-matrix.kicad_sch")
@@ -4561,7 +4561,7 @@
 
   (footprint "PUT_RocketLab_other:SK6812MINI-E" (layer "B.Cu")
     (tstamp 54fc5a1c-1a2e-4544-8694-0c8e97475e3b)
-    (at 115.9764 124.8664 180)
+    (at 112.47305 129.3134 180)
     (property "Sheetfile" "button-led-strip.kicad_sch")
     (property "Sheetname" "Button led strip1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/18d73d02-d240-4308-a5a7-c3da203c7f9c/98aad08d-1cc4-43d1-b603-ea25367cb09d")
@@ -4666,7 +4666,7 @@
 
   (footprint "PUT_RocketLab_other:SK6812MINI-E" (layer "B.Cu")
     (tstamp 577ffddf-d60c-445f-9d5f-a7d4f54aa1dd)
-    (at 98.8958 141.6678 180)
+    (at 91.47305 150.3134 180)
     (property "Sheetfile" "button-led-strip.kicad_sch")
     (property "Sheetname" "Button led strip1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/18d73d02-d240-4308-a5a7-c3da203c7f9c/92a0dc3c-b972-40f5-ab69-ce80dadd76c2")
@@ -4771,7 +4771,7 @@
 
   (footprint "Diode_SMD:D_SOD-323" (layer "B.Cu")
     (tstamp 5f2cca92-0045-4f80-8dd4-0c4bcf37a89d)
-    (at 183.8198 76.2422 90)
+    (at 190.2192 77.436 90)
     (descr "SOD-323")
     (tags "SOD-323")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -4839,7 +4839,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 6555b201-9e80-45df-8b9c-90b78fb7ab03)
-    (at 103.9876 119.1768 90)
+    (at 96.1272 124.2909 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "button-matrix.kicad_sch")
@@ -4854,7 +4854,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 360543d0-82a0-48e1-a052-83d1dadc7e6b)
     )
-    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab")
+    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 438703d1-a980-40f9-a267-2ed334963a2c)
     )
@@ -4911,7 +4911,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "B.Cu")
     (tstamp 65845253-e216-492d-afde-854e4205c17b)
-    (at 170.0022 69.9751 90)
+    (at 176.4016 71.1689 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "power-source.kicad_sch")
@@ -4963,9 +4963,9 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "B.Cu")
+  (footprint "Capacitor_SMD:C_0603_1608Metric" locked (layer "B.Cu")
     (tstamp 69ce31b1-b999-489d-96cd-8c775fa5a77c)
-    (at 153.1112 124.828 90)
+    (at 157.6832 129.9224 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "io.kicad_sch")
@@ -5006,9 +5006,9 @@
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 711ac8d1-73ad-4d54-b2e2-fdaeafbf7999))
     (fp_line (start 0.8 0.4) (end 0.8 -0.4)
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 1af21dc4-0258-41fa-af68-b8bccb5135cd))
-    (pad "1" smd roundrect (at -0.775 0 90) (size 0.9 0.95) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
+    (pad "1" smd roundrect locked (at -0.775 0 90) (size 0.9 0.95) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 12 "rotary_encoder_1B") (pintype "passive") (tstamp 81c77d0f-a4e6-402e-8ce8-b36103881a86))
-    (pad "2" smd roundrect (at 0.775 0 90) (size 0.9 0.95) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
+    (pad "2" smd roundrect locked (at 0.775 0 90) (size 0.9 0.95) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 3 "GND") (pintype "passive") (tstamp be34b560-8df0-4e84-8600-45fcb9c1cf47))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
@@ -5019,7 +5019,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tstamp 6af4bcbc-9e46-46a9-93eb-62cea6fdc77a)
-    (at 155.8798 73.9922 -90)
+    (at 162.3314 80.6704 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "io.kicad_sch")
@@ -5073,7 +5073,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "B.Cu")
     (tstamp 6d033125-080f-4373-b481-ef461de9c8c4)
-    (at 174.7774 82.4862 90)
+    (at 181.1768 83.68 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "power-source.kicad_sch")
@@ -5127,7 +5127,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 716a4fd3-10ff-4255-8afe-d87da7e88c23)
-    (at 86.7918 136.2202 90)
+    (at 74.8098 145.2909 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "button-matrix.kicad_sch")
@@ -5142,7 +5142,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ff91db9b-a248-4366-bfc3-b008bbb33516)
     )
-    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab")
+    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 21649f03-0d2e-41a4-b1bb-dab4d76488af)
     )
@@ -5199,7 +5199,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 7e83ff03-6809-44dc-bdd5-1b56ea435191)
-    (at 138.3284 101.981 90)
+    (at 137.7136 103.4278 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "button-matrix.kicad_sch")
@@ -5214,7 +5214,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 44705be9-b3de-4c6e-8d22-d74ec77762bd)
     )
-    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab")
+    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 03d16051-0be6-4275-a8ec-b4545865ab18)
     )
@@ -5479,7 +5479,7 @@
 
   (footprint "Diode_SMD:D_2114_3652Metric" (layer "B.Cu")
     (tstamp 841682f5-93a9-4f4c-8ea9-e2f3106edc75)
-    (at 133.858 53.9273 90)
+    (at 133.858 53.2607 90)
     (descr "Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator")
     (tags "diode")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -5537,7 +5537,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "B.Cu")
     (tstamp 8eeb7128-935a-4f89-ab56-cf0d629bf795)
-    (at 111.0356 52.6512 180)
+    (at 111.0356 52.6304 180)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "button-led-strip.kicad_sch")
@@ -5591,7 +5591,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "B.Cu")
     (tstamp 8efac323-f371-4838-ae7a-2f3332cec777)
-    (at 153.1366 90.437 90)
+    (at 157.6832 95.5314 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "io.kicad_sch")
@@ -5632,7 +5632,7 @@
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 19ea6a8d-d5e3-440f-912e-3a059f169c4d))
     (fp_line (start 0.8 0.4) (end 0.8 -0.4)
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp f95cf4f7-5e4c-4e93-a4a5-99d8e7cd40fe))
-    (pad "1" smd roundrect (at -0.775 0 90) (size 0.9 0.95) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
+    (pad "1" smd roundrect locked (at -0.775 0 90) (size 0.9 0.95) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 14 "rotary_encoder_2B") (pintype "passive") (tstamp 5a84339c-a0ef-4963-933d-c747318b2dd5))
     (pad "2" smd roundrect (at 0.775 0 90) (size 0.9 0.95) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 3 "GND") (pintype "passive") (tstamp 857b87a7-a81e-434e-a421-86012fe78fe4))
@@ -5645,7 +5645,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 8fd754bc-b4f0-4c71-a470-6a7904730e9a)
-    (at 103.9114 136.144 90)
+    (at 96.1272 145.2909 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "button-matrix.kicad_sch")
@@ -5660,7 +5660,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 1018c946-e42e-4eb6-b3b8-2be5fa2194d0)
     )
-    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab")
+    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp d4c6e2ea-4e14-45f1-abd4-4fa790963e08)
     )
@@ -5801,7 +5801,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-23" (layer "B.Cu")
     (tstamp 942a2a4a-609f-42cb-b815-3f9d34ce8e3e)
-    (at 91.5894 88.4332 90)
+    (at 82.293 83.9828 90)
     (descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOT TO_SOT_SMD")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -5863,7 +5863,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 94c4b29b-6d3e-4ff2-9598-136f11dbbebe)
-    (at 138.3792 136.1186 90)
+    (at 137.7136 145.2909 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "button-matrix.kicad_sch")
@@ -5878,7 +5878,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 1899e9e8-04e6-478e-ba74-7a3e162abd76)
     )
-    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab")
+    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 7a210215-5a7f-4821-9fbd-5ecdab22b0a3)
     )
@@ -6089,7 +6089,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "B.Cu")
     (tstamp 98c7ea6c-c851-41f3-b8d8-7a12ab8d0430)
-    (at 83.4012 87.3994)
+    (at 74.1048 82.949)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -6143,7 +6143,7 @@
 
   (footprint "PUT_RocketLab_other:SK6812MINI-E" (layer "B.Cu")
     (tstamp 9b81a544-46ec-4d13-a501-0391b3fd360c)
-    (at 133.1604 107.4286 180)
+    (at 133.47305 108.3134 180)
     (property "Sheetfile" "button-led-strip.kicad_sch")
     (property "Sheetname" "Button led strip1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/18d73d02-d240-4308-a5a7-c3da203c7f9c/14fb87fc-f862-4967-88e2-cc157f3c303d")
@@ -6248,7 +6248,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "B.Cu")
     (tstamp 9c55fc71-ab10-4571-b66d-64b158292607)
-    (at 167.6146 72.3016 90)
+    (at 174.014 73.4954 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "power-source.kicad_sch")
@@ -6302,7 +6302,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 9dddaa77-290a-422b-b942-90fe2c2b6d5a)
-    (at 121.2596 119.0498 90)
+    (at 116.99805 124.2909 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "button-matrix.kicad_sch")
@@ -6317,7 +6317,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 91e4c766-14be-4c50-ab53-a0c0c423a0e8)
     )
-    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab")
+    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 6f96a90c-4251-446a-882c-c729b6b21ffd)
     )
@@ -6374,7 +6374,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "B.Cu")
     (tstamp a06dbdad-d97b-40c7-bbf1-ea159583a8d1)
-    (at 158.1404 124.828 -90)
+    (at 162.6832 129.9224 -90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "io.kicad_sch")
@@ -6428,7 +6428,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "B.Cu")
     (tstamp a43dc89f-c92b-412c-8b45-30a1b4984b4f)
-    (at 177.3174 82.2979 90)
+    (at 183.7168 83.4917 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "power-source.kicad_sch")
@@ -6482,7 +6482,7 @@
 
   (footprint "Diode_SMD:D_2114_3652Metric" (layer "B.Cu")
     (tstamp a8beae26-dbbb-41fb-86bf-1a1caeaf48d7)
-    (at 75.2887 88.2356 180)
+    (at 65.9923 83.7852 180)
     (descr "Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator")
     (tags "diode")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -6540,7 +6540,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp a9e79821-02c5-48a9-93c7-aec7a31d77b1)
-    (at 121.2342 101.8286 90)
+    (at 116.99805 103.4278 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "button-matrix.kicad_sch")
@@ -6555,7 +6555,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 04b87f7a-c9a7-465f-b6be-2d980cc1bfe2)
     )
-    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab")
+    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp d7e94353-aca9-44eb-87b3-16e05c327f8f)
     )
@@ -6612,7 +6612,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "B.Cu")
     (tstamp ac0be282-029c-4cae-97a6-088aed04690c)
-    (at 185.7502 82.41 90)
+    (at 192.1496 83.6038 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "power-source.kicad_sch")
@@ -6666,7 +6666,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp b3978427-ec02-4757-adf4-3c9ea47649b2)
-    (at 121.1072 136.017 90)
+    (at 116.99805 145.2909 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "button-matrix.kicad_sch")
@@ -6681,7 +6681,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c7b1cfce-6671-4e15-8c78-d12c9c0f7211)
     )
-    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab")
+    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b9eaee5b-92a4-4019-b82b-9eeee8dd8b56)
     )
@@ -6738,7 +6738,7 @@
 
   (footprint "PUT_RocketLab_IC:TLV75901PDRVT" (layer "B.Cu")
     (tstamp b61ff215-9d16-443d-9181-e62a2a2b52b8)
-    (at 182.5244 82.64045)
+    (at 188.9238 83.83425)
     (property "Sheetfile" "power-source.kicad_sch")
     (property "Sheetname" "Power source")
     (path "/3e174945-0f14-4777-84ae-d28e4ef4eec5/788a920b-6521-4f89-9b33-5b229c237212")
@@ -6928,7 +6928,7 @@
 
   (footprint "Diode_SMD:D_SOD-323" (layer "B.Cu")
     (tstamp ba58062e-e5b0-4d9b-9a27-1186f7487d8d)
-    (at 178.8414 76.2 90)
+    (at 185.2408 77.3938 90)
     (descr "SOD-323")
     (tags "SOD-323")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -6996,7 +6996,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "B.Cu")
     (tstamp c3182e01-d93b-40e8-a2e2-b2b33785dea7)
-    (at 111.76 48.2926 -90)
+    (at 111.76 48.2926 90)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "keypad.kicad_sch")
@@ -7005,7 +7005,7 @@
     (property "ki_keywords" "capacitor cap")
     (path "/194c9fa9-e85e-425f-aedc-9b61bf538267")
     (attr smd)
-    (fp_text reference "C8" (at 1.9176 0 90) (layer "B.SilkS")
+    (fp_text reference "C8" (at -1.8724 0 90) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 9772a408-f2b6-4dde-8a29-ed5bddeae52e)
     )
@@ -7033,11 +7033,11 @@
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 4402953c-b100-4577-9be5-03278eaedd1a))
     (fp_line (start 0.3 0.15) (end 0.3 -0.15)
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 5642cb08-d5e6-4c42-bdb3-b3c87db973ce))
-    (pad "" smd roundrect (at -0.345 0 270) (size 0.318 0.36) (layers "B.Paste") (roundrect_rratio 0.25) (tstamp b3d274ef-cb98-4cfc-9cff-3bac6daf2d2b))
-    (pad "" smd roundrect (at 0.345 0 270) (size 0.318 0.36) (layers "B.Paste") (roundrect_rratio 0.25) (tstamp a55fc012-9319-48f8-82b5-1b8516250038))
-    (pad "1" smd roundrect (at -0.32 0 270) (size 0.46 0.4) (layers "B.Cu" "B.Mask") (roundrect_rratio 0.25)
+    (pad "" smd roundrect (at -0.345 0 90) (size 0.318 0.36) (layers "B.Paste") (roundrect_rratio 0.25) (tstamp b3d274ef-cb98-4cfc-9cff-3bac6daf2d2b))
+    (pad "" smd roundrect (at 0.345 0 90) (size 0.318 0.36) (layers "B.Paste") (roundrect_rratio 0.25) (tstamp a55fc012-9319-48f8-82b5-1b8516250038))
+    (pad "1" smd roundrect (at -0.32 0 90) (size 0.46 0.4) (layers "B.Cu" "B.Mask") (roundrect_rratio 0.25)
       (net 4 "+3V3") (pintype "passive") (tstamp f99c9031-7df6-427a-81c9-53427ba04c7d))
-    (pad "2" smd roundrect (at 0.32 0 270) (size 0.46 0.4) (layers "B.Cu" "B.Mask") (roundrect_rratio 0.25)
+    (pad "2" smd roundrect (at 0.32 0 90) (size 0.46 0.4) (layers "B.Cu" "B.Mask") (roundrect_rratio 0.25)
       (net 3 "GND") (pintype "passive") (tstamp da1e50ad-29ee-446d-a937-bb0fa7b8d875))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0201_0603Metric.wrl"
       (offset (xyz 0 0 0))
@@ -7048,7 +7048,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "B.Cu")
     (tstamp c3ad70b6-2ee9-4254-b7a9-622994426290)
-    (at 102.105 89.0801 90)
+    (at 92.8086 84.6297 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -7102,7 +7102,7 @@
 
   (footprint "Diode_SMD:D_SOD-323" (layer "B.Cu")
     (tstamp c7c801e3-3bcc-44ca-a473-1ea7989d6016)
-    (at 127.7366 52.3048 -90)
+    (at 127.7366 51.6382 -90)
     (descr "SOD-323")
     (tags "SOD-323")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -7170,7 +7170,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
     (tstamp c9b72924-53db-4dcb-8175-9433be50e9fc)
-    (at 186.0042 76.99 90)
+    (at 192.4036 78.1838 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -7224,7 +7224,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "B.Cu")
     (tstamp cf8432b8-8368-47be-ae22-213d9aecd1cb)
-    (at 158.1404 90.4364 -90)
+    (at 162.6832 95.5314 -90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "io.kicad_sch")
@@ -7278,7 +7278,7 @@
 
   (footprint "PUT_RocketLab_other:SK6812MINI-E" (layer "B.Cu")
     (tstamp d1082580-fc6c-4892-9dc2-f589efbc5838)
-    (at 116.3574 141.9352 180)
+    (at 112.47305 150.3134 180)
     (property "Sheetfile" "button-led-strip.kicad_sch")
     (property "Sheetname" "Button led strip1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/18d73d02-d240-4308-a5a7-c3da203c7f9c/4c6883c2-e539-4be2-ac5d-d1e8116462c7")
@@ -7437,7 +7437,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "B.Cu")
     (tstamp db6ad1b4-bed5-480d-b6c0-15a2213229bb)
-    (at 64.3866 105.5636)
+    (at 71.1466 49.9382 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "io.kicad_sch")
@@ -7446,15 +7446,15 @@
     (property "ki_keywords" "capacitor cap")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/234ec7b3-57fa-4491-8379-2a271dee7340")
     (attr smd)
-    (fp_text reference "C9" (at 0 1.43) (layer "B.SilkS")
+    (fp_text reference "C9" (at 0 1.43 90) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b4a9f6c7-79a1-47b9-a2da-5c64d829303f)
     )
-    (fp_text value "1uF" (at 0 -1.43) (layer "B.Fab") hide
+    (fp_text value "1uF" (at 0 -1.43 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp bb079bce-b69e-45a1-bd5f-a7a53a366339)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "B.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0 90) (layer "B.Fab")
         (effects (font (size 0.4 0.4) (thickness 0.06)) (justify mirror))
       (tstamp 40b17cc6-dd8e-42f6-bc7c-8b5527b0c108)
     )
@@ -7478,9 +7478,9 @@
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp c935b2a4-1ce3-49d8-957c-2425cf133602))
     (fp_line (start 0.8 0.4) (end 0.8 -0.4)
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 5c7e6b2e-c5b8-44c9-8cfd-91befe8b44c8))
-    (pad "1" smd roundrect (at -0.775 0) (size 0.9 0.95) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
+    (pad "1" smd roundrect (at -0.775 0 90) (size 0.9 0.95) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 10 "RTS") (pintype "passive") (tstamp 8c8485d3-c31b-473c-8667-263b87a2520c))
-    (pad "2" smd roundrect (at 0.775 0) (size 0.9 0.95) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
+    (pad "2" smd roundrect (at 0.775 0 90) (size 0.9 0.95) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 3 "GND") (pintype "passive") (tstamp bf1e12ac-5eb5-449b-8050-17f4b398961b))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
@@ -7491,7 +7491,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp dfdbdd61-b17e-4d87-b128-b1bbb51e6f4a)
-    (at 138.2776 118.9482 90)
+    (at 137.7136 124.2909 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "button-matrix.kicad_sch")
@@ -7506,7 +7506,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 21c802bf-c549-470f-a1d8-fdfd9b65f67d)
     )
-    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab")
+    (fp_text value "D_Small" (at 0 -2.1 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 99fff1c0-5a24-45f3-8d24-72385f9af8ed)
     )
@@ -7563,7 +7563,7 @@
 
   (footprint "Diode_SMD:D_SOD-323" (layer "B.Cu")
     (tstamp e063935f-6830-4f20-b3e5-588055f1ec2f)
-    (at 83.2432 81.2046)
+    (at 73.9468 76.7542)
     (descr "SOD-323")
     (tags "SOD-323")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -7631,7 +7631,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp e8198ad8-0fdb-4a07-a791-782b1f8689d2)
-    (at 174.117 70.485 180)
+    (at 180.5164 71.6788 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "power-source.kicad_sch")
@@ -7703,7 +7703,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tstamp ecd123e7-bf8c-4983-9f43-6d267a6c83d8)
-    (at 179.578 83.056 -90)
+    (at 185.9774 84.2498 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "power-source.kicad_sch")
@@ -7757,7 +7757,7 @@
 
   (footprint "Resistor_SMD:R_2512_6332Metric" (layer "B.Cu")
     (tstamp ee7af3a5-a9e2-4c47-9c5c-fc96e8333679)
-    (at 180.3747 59.9948 180)
+    (at 182.1781 56.515 180)
     (descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "io.kicad_sch")
@@ -7865,7 +7865,7 @@
 
   (footprint "Resistor_SMD:R_0201_0603Metric" (layer "B.Cu")
     (tstamp f3671644-35c4-4fe4-817a-b828fc84b93a)
-    (at 183.4642 55.1434 180)
+    (at 185.2676 51.6636 180)
     (descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "io.kicad_sch")
@@ -7917,7 +7917,7 @@
 
   (footprint "PUT_RocketLab_other:SK6812MINI-E" (layer "B.Cu")
     (tstamp f3f549e0-0dbf-4224-a375-99a0a4c77458)
-    (at 81.9286 124.9546 180)
+    (at 70.47305 129.3134 180)
     (property "Sheetfile" "button-led-strip.kicad_sch")
     (property "Sheetname" "Button led strip1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/18d73d02-d240-4308-a5a7-c3da203c7f9c/70fed444-5c20-48d9-9d30-022af06d2694")
@@ -8022,7 +8022,7 @@
 
   (footprint "PUT_RocketLab_other:SK6812MINI-E" (layer "B.Cu")
     (tstamp f68307ae-6acb-49d4-a02e-01ccd207a9c1)
-    (at 132.72955 124.9426 180)
+    (at 133.47305 129.3134 180)
     (property "Sheetfile" "button-led-strip.kicad_sch")
     (property "Sheetname" "Button led strip1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/18d73d02-d240-4308-a5a7-c3da203c7f9c/4653c426-4a77-439a-9f3a-068a326c2982")
@@ -8127,7 +8127,7 @@
 
   (footprint "Diode_SMD:D_SOD-323" (layer "B.Cu")
     (tstamp fad36c86-e45f-4928-ab71-d773dcfde3c3)
-    (at 83.2432 78.563)
+    (at 73.9468 74.1126)
     (descr "SOD-323")
     (tags "SOD-323")
     (property "Sheetfile" "usb-c-interface.kicad_sch")
@@ -8195,7 +8195,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "B.Cu")
     (tstamp fcc0c17b-9f31-45dc-a060-5c860ea3027b)
-    (at 182.7754 65.4558 180)
+    (at 184.5788 61.976 180)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "io.kicad_sch")
@@ -8303,7 +8303,7 @@
 
   (footprint "PUT_RocketLab_other:SK6812MINI-E" (layer "B.Cu")
     (tstamp ffb5341e-7284-42a8-bef2-792dfa8f1870)
-    (at 81.827 107.684 180)
+    (at 70.47305 108.3134 180)
     (property "Sheetfile" "button-led-strip.kicad_sch")
     (property "Sheetname" "Button led strip1")
     (path "/3159a0fd-9cfb-4836-b001-4197fb47d6b2/18d73d02-d240-4308-a5a7-c3da203c7f9c/1c78e921-f0f5-4732-9107-42f52a1ca807")
@@ -8406,7 +8406,7 @@
       ) (tstamp d0cb15e2-ca9d-454c-9b40-162a7f855262))
   )
 
-  (gr_rect (start 61.2775 39.8526) (end 194.1957 152.527)
+  (gr_rect (start 51.9811 39.8526) (end 200.6219 161.0106)
     (stroke (width 0.2) (type default)) (fill none) (layer "Edge.Cuts") (tstamp fc55b94b-3149-4341-bf90-79fd2fc08832))
 
 )
