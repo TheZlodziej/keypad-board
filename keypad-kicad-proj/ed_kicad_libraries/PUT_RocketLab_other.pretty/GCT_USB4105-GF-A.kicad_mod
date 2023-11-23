@@ -59,4 +59,9 @@
   (pad "S2" thru_hole oval (at -4.32 0) (size 1.15 2.2) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask") (tstamp 7ab43dd5-158c-4fb4-89fd-0268b2095c18))
   (pad "S3" thru_hole oval (at 4.32 0) (size 1.15 2.2) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask") (tstamp 4833e46b-f647-4405-8958-8388c09e9ad1))
   (pad "S4" thru_hole oval (at 4.32 -4.18) (size 1.15 2.2) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask") (tstamp 931e27aa-b13d-4318-a4da-bc41de9026c2))
+  (model "C:/Repos/keypad-board/keypad-kicad-proj/3d_models/USB Type C Port (SMD Type).STEP"
+    (offset (xyz -0.03 4.5 1.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 -180 180))
+  )
 )

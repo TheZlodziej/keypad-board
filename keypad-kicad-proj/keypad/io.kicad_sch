@@ -1442,7 +1442,7 @@
     (property "Footprint" "PUT_RocketLab_other:CMI9605IC0580T" (at 83.82 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 83.82 50.8 0)
+    (property "Datasheet" "https://www.mouser.pl/datasheet/2/281/PKM13EPYH4002_B0-792853.pdf" (at 83.82 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Reference_1" "LS" (at 94.615 53.3399 0)

@@ -56,4 +56,9 @@
   (pad "3" thru_hole circle (at 6 0) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 5cc336a6-d44c-4302-bf59-c80650f5a951))
   (pad "SH" thru_hole circle (at -3.25 0) (size 3.653 3.653) (drill 2.4352) (layers "*.Cu" "*.Mask") (tstamp e87d9f29-22ad-4d76-8d03-853a5d4a8de6))
   (pad "SH" thru_hole circle (at 9.25 0) (size 3.653 3.653) (drill 2.4352) (layers "*.Cu" "*.Mask") (tstamp 6653c8ad-888f-47e3-8e7e-19e6e963705b))
+  (model "C:/Repos/keypad-board/keypad-kicad-proj/3d_models/Vertical slide switch SS-12D00G3 High Knob 3mm SPDT v2.step"
+    (offset (xyz 3 0 0))
+    (scale (xyz 1 1 0.9))
+    (rotate (xyz 90 180 90))
+  )
 )

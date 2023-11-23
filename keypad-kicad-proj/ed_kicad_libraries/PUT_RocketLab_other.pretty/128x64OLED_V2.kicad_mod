@@ -79,4 +79,9 @@
       fabb5e74-28d5-45d8-b83e-ede4a7ccbac1
     )
   )
+  (model "C:/Repos/keypad-board/keypad-kicad-proj/3d_models/Pantalla OLED 0.96'' 128x64.stp"
+    (offset (xyz 0 0 2.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
