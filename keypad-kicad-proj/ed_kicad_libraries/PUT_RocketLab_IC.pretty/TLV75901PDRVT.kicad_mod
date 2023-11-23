@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (property "Sheetfile" "Programing.kicad_sch")
   (property "Sheetname" "Programing")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "U8" (at 0 2.25 -180) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 904a2992-5785-4e29-8b72-389b2d02b9a8)

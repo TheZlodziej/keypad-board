@@ -45,6 +45,8 @@
     (stroke (width 0.001) (type solid)) (layer "Edge.Cuts") (tstamp af347946-e3da-4427-87ab-77b747929f50))
   (fp_line (start 1.75 1.55) (end 1.75 -1.55)
     (stroke (width 0.001) (type solid)) (layer "Edge.Cuts") (tstamp b6cd701f-4223-4e72-a305-466869ccb250))
+  (fp_rect (start -3.775 -1.925) (end 3.75 1.925)
+    (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 9d33bce2-ea5e-487d-b047-adc8bf7d8a3f))
   (pad "1" smd custom (at 2.628 -0.75) (size 1.35 0.635) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor rect))
