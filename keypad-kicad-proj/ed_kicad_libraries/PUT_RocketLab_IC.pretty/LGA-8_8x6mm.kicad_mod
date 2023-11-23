@@ -1,0 +1,50 @@
+(footprint "LGA-8_8x6mm" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 634DA83B)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -4 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7233cb6b-d8fd-4fcd-9b4f-8b0ed19b1b12)
+  )
+  (fp_text value "LGA-8_8x6mm" (at 0 3.9 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp df83f395-2d18-47e2-a370-952ca41c2b3a)
+  )
+  (fp_text user "${REFERENCE}" (at 0 0 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 653a86ba-a1ae-4175-9d4c-c788087956d0)
+  )
+  (fp_line (start -4 -3) (end 4 -3) (layer "F.SilkS") (width 0.1) (tstamp 40440c3a-78b1-41ee-9ba0-84f9716dffc0))
+  (fp_line (start -4 -2.5) (end -4 -3) (layer "F.SilkS") (width 0.1) (tstamp 521bfbc1-de05-4506-b52a-e16453f953ad))
+  (fp_line (start 4 -2.45) (end 4 -2.95) (layer "F.SilkS") (width 0.1) (tstamp 52aa4775-b499-4300-a415-65cd614bc4ca))
+  (fp_line (start 4 3) (end 4 2.5) (layer "F.SilkS") (width 0.1) (tstamp 67d33389-f745-465b-8df2-61a36467c6a1))
+  (fp_line (start 4 3) (end -4 3) (layer "F.SilkS") (width 0.1) (tstamp 816f2134-debb-4a16-a562-2231dc5c7a98))
+  (fp_line (start -4 2.95) (end -4 2.45) (layer "F.SilkS") (width 0.1) (tstamp f5edecff-c7e4-4ade-b33f-898c336b9ff1))
+  (fp_circle (center -2.8 -1.9) (end -2.6 -1.9) (layer "F.SilkS") (width 0.12) (fill solid) (tstamp 6bced446-6fa1-4a44-9b3f-54cd3597a1e2))
+  (fp_rect (start -4.9 -3.1) (end 4.9 3.1) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 1e091c79-0aaf-47f2-8a21-e6566940edd1))
+  (pad "1" smd rect (at -4 -1.905) (size 1.6 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a94145a5-5a97-41c1-b7b5-a3ee67095173))
+  (pad "2" smd rect (at -4 -0.635) (size 1.6 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f01efdb1-881c-40a2-bc25-404d9fd4e172))
+  (pad "3" smd rect (at -4 0.635) (size 1.6 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a67fc7f9-f8af-4014-9cb1-cdb494cca8ca))
+  (pad "4" smd rect (at -4 1.905) (size 1.6 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d6438a44-b742-48ae-b52f-11da0511314b))
+  (pad "5" smd rect (at 4 1.905) (size 1.6 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 93c3af21-b55d-48d7-8765-064dd08a2bab))
+  (pad "6" smd rect (at 4 0.635) (size 1.6 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bf482801-739d-4fa2-877c-e72f08f9d7d6))
+  (pad "7" smd rect (at 4 -0.635) (size 1.6 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 06114002-5a85-4c69-99bb-78375bc85542))
+  (pad "8" smd rect (at 4 -1.905) (size 1.6 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cd7f2d4b-e6d5-40ed-b030-1bb6d0276c1c))
+  (group "" (id e843c0d8-b84e-4163-9e56-4cc72182e39a)
+    (members
+      06114002-5a85-4c69-99bb-78375bc85542
+      93c3af21-b55d-48d7-8765-064dd08a2bab
+      a67fc7f9-f8af-4014-9cb1-cdb494cca8ca
+      a94145a5-5a97-41c1-b7b5-a3ee67095173
+      bf482801-739d-4fa2-877c-e72f08f9d7d6
+      cd7f2d4b-e6d5-40ed-b030-1bb6d0276c1c
+      d6438a44-b742-48ae-b52f-11da0511314b
+      f01efdb1-881c-40a2-bc25-404d9fd4e172
+    )
+  )
+  (model "D:/Studia/PUT RocketLab/ed-eagle-library-putrocketlab/3D_models/LGA-8_8x6mm.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
+)

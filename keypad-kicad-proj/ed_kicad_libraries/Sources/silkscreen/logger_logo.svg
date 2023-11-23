@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10mm"
+   height="10mm"
+   viewBox="0 0 10 10"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="logger_logo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="10mm"
+     inkscape:zoom="13.798021"
+     inkscape:cx="8.8780848"
+     inkscape:cy="21.85096"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Checkerboardwhite"
+       id="pattern837"
+       patternTransform="matrix(10,0,0,10,-10.015847,0)" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboardwhite"
+       inkscape:stockid="Checkerboard white">
+      <rect
+         style="fill:white;stroke:none"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         id="rect2156" />
+      <rect
+         style="fill:white;stroke:none"
+         x="1"
+         y="1"
+         width="1"
+         height="1"
+         id="rect2158" />
+    </pattern>
+    <linearGradient
+       id="linearGradient5110"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5108" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3703" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#pattern837);fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1399"
+       width="8"
+       height="8"
+       x="-9.0079241"
+       y="1.0401741"
+       transform="scale(-1,1)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.931045,6.5537359 C 8.5406427,4.9806682 7.130108,2.748099 6.5556307,3.2519093 5.8392331,3.9585672 5.8570435,5.3678724 4.5419931,5.7747428 L 0.98021104,6.6969265"
+       id="path4148"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0614963;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 8.6870562,7.5624139 V 6.3927706 L 8.6024173,6.1462633 C 8.2679423,5.1721189 7.6207725,4.062241 7.1203586,3.6045745 6.9586699,3.4566979 6.7793768,3.3575609 6.7169497,3.3815165 6.6272766,3.4159272 6.4067094,3.7745974 6.1455685,4.3106538 5.9896572,4.6307004 5.8071739,4.9774535 5.7400499,5.0812165 5.4976521,5.4559252 5.1524603,5.7490301 4.782037,5.8946719 4.6437364,5.9490485 1.3951997,6.8066655 1.3275294,6.8066655 c -0.00914,0 -0.016621,0.4332128 -0.016621,0.9626957 v 0.9626957 h 3.6880743 3.6880736 z"
+       id="path3663" />
+  </g>
+</svg>

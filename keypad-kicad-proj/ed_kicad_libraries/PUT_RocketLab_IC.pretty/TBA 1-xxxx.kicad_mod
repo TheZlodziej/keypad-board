@@ -1,0 +1,37 @@
+(footprint "TBA 1-xxxx" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 6387D5A5)
+  (attr through_hole)
+  (fp_text reference "REF**" (at -0.05 -4 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9e813ec2-d4ce-4e2e-b379-c6fedb4c45db)
+  )
+  (fp_text value "TBA 1-xxxx" (at 0 -1.75 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 6325c32f-c82a-4357-b022-f9c7e76f412e)
+  )
+  (fp_text user "${REFERENCE}" (at 0 0 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 18d11f32-e1a6-4f29-8e3c-0bfeb07299bd)
+  )
+  (fp_rect (start -6.25 -3.25) (end 6.25 3.25) (layer "F.SilkS") (width 0.12) (fill none) (tstamp c5ca144b-4a8c-4b43-8d11-73bfc7ce35b4))
+  (fp_rect (start -5.84 -3) (end 5.84 3) (layer "F.Fab") (width 0.12) (fill none) (tstamp 369de6e0-38f9-4c75-93ed-d58163562fde))
+  (pad "1" thru_hole oval (at -3.81 1.65) (size 1.5 1.25) (drill oval 0.8 0.55) (layers *.Cu *.Mask) (tstamp ae877162-4ceb-4c8a-bbfe-7112f9e7e7ea))
+  (pad "2" thru_hole oval (at -1.27 1.65) (size 1.5 1.25) (drill oval 0.8 0.55) (layers *.Cu *.Mask) (tstamp 6f5f0c33-b595-427a-8f2d-635a21b1d521))
+  (pad "3" thru_hole oval (at 1.27 1.65) (size 1.5 1.25) (drill oval 0.8 0.55) (layers *.Cu *.Mask) (tstamp 8a3add20-c253-4adc-b840-becd588ad034))
+  (pad "4" thru_hole oval (at 3.81 1.65) (size 1.5 1.25) (drill oval 0.8 0.55) (layers *.Cu *.Mask) (tstamp d1cc21d5-6351-43e8-8198-b40244a6fa09))
+  (group "" (id b0cead16-6461-4e3e-9ca3-2e43f46ff1b9)
+    (members
+      369de6e0-38f9-4c75-93ed-d58163562fde
+      c5ca144b-4a8c-4b43-8d11-73bfc7ce35b4
+    )
+  )
+  (group "" (id ffe1efc0-4e7c-48ce-a91f-49b6fd31997b)
+    (members
+      6f5f0c33-b595-427a-8f2d-635a21b1d521
+      8a3add20-c253-4adc-b840-becd588ad034
+      ae877162-4ceb-4c8a-bbfe-7112f9e7e7ea
+      d1cc21d5-6351-43e8-8198-b40244a6fa09
+    )
+  )
+)
