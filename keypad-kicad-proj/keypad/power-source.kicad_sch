@@ -1055,7 +1055,7 @@
     (uuid f95f317c-1d8d-448f-a516-94ceeffaedaa)
   )
 
-  (text "use protected LI cells only!" (at 88.9 38.1 0)
+  (text "use protected Li cells only!" (at 88.9 38.1 0)
     (effects (font (size 2 2) (thickness 0.4) bold (color 255 71 100 1)) (justify left bottom))
     (uuid 28a51cd3-6b01-4ae2-855f-37206778100b)
   )
@@ -2152,8 +2152,8 @@
     (pin "1" (uuid d411ffcd-1251-40bd-9359-fc8a99731587))
     (pin "2" (uuid 8e241aa3-49c7-46d0-8639-451c359e5eda))
     (pin "3" (uuid 5a3bbb65-3b16-4546-be7e-3a74c89bbf1c))
-    (pin "SH" (uuid 52cf7f69-c31b-4ea8-a94c-750f38dd79f0))
-    (pin "SH" (uuid 52cf7f69-c31b-4ea8-a94c-750f38dd79f0))
+    (pin "SH" (uuid 52cf7f69-c31b-4ea8-a94c-750f38dd79f2))
+    (pin "SH" (uuid 52cf7f69-c31b-4ea8-a94c-750f38dd79f2))
     (instances
       (project "keypad"
         (path "/26078c39-1d91-4154-8719-da74cb453e74/3e174945-0f14-4777-84ae-d28e4ef4eec5"
