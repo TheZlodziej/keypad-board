@@ -520,6 +520,10 @@
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
     (uuid 4d8502b0-ed28-4420-8f1c-32a2780d23c4)
   )
+  (text "INNY PIN!!!" (at 93.98 95.25 0)
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold (color 255 104 52 1)) (justify left bottom))
+    (uuid 4eb080b1-a8d5-4b15-a2d1-0c7a2255e873)
+  )
 
   (global_label "buzzer" (shape output) (at 160.02 83.82 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
