@@ -2469,8 +2469,8 @@
     (pin "1" (uuid 0e8338c4-f3d9-43bf-9484-4bfdcd21af00))
     (pin "2" (uuid a12b89ae-284d-470a-8682-dc26ee8142ca))
     (pin "3" (uuid 0bfb5cb2-5e27-4894-b95f-cac462117250))
-    (pin "SH" (uuid 8167133c-11e4-4a23-93c9-e760274ee258))
-    (pin "SH" (uuid 8167133c-11e4-4a23-93c9-e760274ee258))
+    (pin "SH" (uuid 8167133c-11e4-4a23-93c9-e760274ee259))
+    (pin "SH" (uuid 8167133c-11e4-4a23-93c9-e760274ee259))
     (instances
       (project "keypad"
         (path "/26078c39-1d91-4154-8719-da74cb453e74/3e174945-0f14-4777-84ae-d28e4ef4eec5"
