@@ -53,9 +53,9 @@ private:
 
     void onButtonClicked(uint8_t row, uint8_t col)
     {
-        tone(BUZZER_PIN, 1200, 100);
+        tone(BUZZER_PIN, 200, 50);
         const uint8_t led_idx = row * KEYPAD_COL_COUNT + col;
-        m_leds[led_idx].setHue(map(led_idx, 0, KEYPAD_LED_COUNT, 0, 255));
+        m_leds[led_idx].setColorCode(KEYPAD_LED_COLOR_TABLE[led_idx]);
         FastLED.show();
 
         if (m_implementation)
@@ -84,10 +84,19 @@ private:
         }
     }
 
+    void onSliderValueChanged(float new_value)
+    {
+        FastLED.setBrightness(255U * new_value);
+        if (m_implementation)
+        {
+            m_implementation->onSliderValueChanged(new_value);
+        }
+    }
+
     void setupLEDs()
     {
         FastLED.addLeds<SK6812, KEYPAD_LED_DATA_PIN, GRB>(m_leds, KEYPAD_LED_COUNT);
-        FastLED.setBrightness(m_slider.getValue() * 255);
+        FastLED.setBrightness(255U * m_slider.getValue());
         for (uint8_t led_idx = 0; led_idx < KEYPAD_LED_COUNT; led_idx++)
         {
             m_leds[led_idx].setRGB(0, 0, 0);
@@ -103,8 +112,8 @@ private:
 
     void setupSlider()
     {
-        m_slider.setOnValueChangedCallback([](float new_value)
-                                           { FastLED.setBrightness(new_value * 255); });
+        m_slider.setOnValueChangedCallback([this](float new_value)
+                                           { onSliderValueChanged(new_value); });
     }
 
     void setupButtons()
@@ -154,6 +163,7 @@ protected:
         setupBuzzer();
         setupButtons();
         setupEncoders();
+        setupSlider();
     }
 
 public:

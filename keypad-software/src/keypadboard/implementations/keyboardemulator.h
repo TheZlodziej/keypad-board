@@ -31,6 +31,14 @@ public:
         }
     }
 
+    virtual void onButtonReleased(uint8_t row, uint8_t col) override
+    {
+        if (row == 2 && col == 3)
+        {
+            m_keyboard.releaseAll();
+        }
+    }
+
     virtual void onLeftEncoderIncremented() override
     {
         if (m_keyboard.isConnected())

@@ -87,12 +87,12 @@ public:
             digitalWrite(m_row_pins[row], LOW);
         }
 
-#ifdef DEBUG
+#ifdef DEBUG_BUTTON_MATRIX
         print();
 #endif
     }
 
-#ifdef DEBUG
+#ifdef DEBUG_BUTTON_MATRIX
     void print()
     {
         Serial.println("BUTTON MATRIX:");

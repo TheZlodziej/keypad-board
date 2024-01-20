@@ -64,12 +64,12 @@ public:
                 m_onValueChanged(m_counter);
         }
         m_prev_state = state;
-#ifdef DEBUG
+#ifdef DEBUG_ENCODER
         print();
 #endif
     }
 
-#ifdef DEBUG
+#ifdef DEBUG_ENCODER
     void
     print()
     {

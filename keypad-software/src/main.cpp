@@ -1,11 +1,12 @@
 #include "keypadboard/keypadboard.h"
-#include "keypadboard/implementations/keyboardemulator.h"
-// #include "keypadboard/implementations/usbkeyboardemulator.h"
+// #include "keypadboard/implementations/keyboardemulator.h"
+#include "keypadboard/implementations/usbkeyboardemulator.h"
 
 void setup()
 {
-  KeypadBoard::setImplementation(new KeyboardEmulator); // init
-  // KeypadBoard::setImplementation(new USBKeyboardEmulator); // init
+  // KeypadBoard::setImplementation(new DummyKeypadImplementation); // init
+  // KeypadBoard::setImplementation(new KeyboardEmulator); // init
+  KeypadBoard::setImplementation(new USBKeyboardEmulator); // init
 
 #ifdef DEBUG
   Serial.begin(115200);
