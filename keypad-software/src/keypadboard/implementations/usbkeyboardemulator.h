@@ -16,29 +16,33 @@ public:
     {
         m_keyboard.begin();
         USB.begin();
+        m_keyboard.releaseAll();
     }
 
     virtual void onButtonClicked(uint8_t row, uint8_t col) override
     {
         if (row == 0 && col == 0)
         {
-            m_keyboard.press(HID_KEY_GUI_LEFT);
-            m_keyboard.press(HID_KEY_SPACE);
+            m_keyboard.press(KEY_LEFT_GUI);
+            m_keyboard.press(' ');
+            delay(200);
             m_keyboard.releaseAll();
             m_keyboard.println("terminal");
         }
-        else if (row == 0 && col == 1)
-        {
-            m_keyboard.press(HID_KEY_GUI_LEFT);
-            m_keyboard.write('r');
-        }
         else if (row == 1 && col == 0)
         {
-            m_keyboard.println(R"(explorer https://i.makeagif.com/media/3-09-2021/YYrqBc.gif | open https://i.makeagif.com/media/3-09-2021/YYrqBc.gif)");
+            m_keyboard.press(KEY_LEFT_GUI);
+            m_keyboard.press('r');
+            delay(200);
+            m_keyboard.releaseAll();
+        }
+        else if (row == 2 && col == 0)
+        {
+            m_keyboard.println(R"(cmd /c explorer https://i.makeagif.com/media/3-09-2021/YYrqBc.gif || open https://i.makeagif.com/media/3-09-2021/YYrqBc.gif)");
         }
         else if (row == 2 && col == 3)
         {
-            m_keyboard.press(HID_KEY_RETURN);
+            m_keyboard.releaseAll();
         }
     }
 
@@ -56,12 +60,14 @@ public:
 
     virtual void onLeftEncoderIncremented() override
     {
-        m_keyboard.write(HID_KEY_VOLUME_UP);
+        m_keyboard.pressRaw(HID_KEY_VOLUME_UP);
+        m_keyboard.releaseRaw(HID_KEY_VOLUME_DOWN);
     }
 
     virtual void onLeftEncoderDecremented() override
     {
-        m_keyboard.write(HID_KEY_VOLUME_DOWN);
+        m_keyboard.pressRaw(HID_KEY_VOLUME_DOWN);
+        m_keyboard.releaseRaw(HID_KEY_VOLUME_DOWN);
     }
 };
 
